@@ -1,9 +1,7 @@
 def est_separateur(d):
     # separateur = [' ', ',', ';', ':', '.', '!', '?', '_', '-']
-    if d ==' ':
-        return True
-    elif d == '.':
-        return True
+    if d ==' ' or d == '.':
+        return True 
     else:
         return False
     
