@@ -1,1 +1,1 @@
-return d.isdigit()
+or i in range(len(mot)):
