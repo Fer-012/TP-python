@@ -1,1 +1,2 @@
-or i in range(len(mot)):
+
+# def plus_freq(s):
